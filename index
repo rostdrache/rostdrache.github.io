@@ -41,34 +41,34 @@
 	  <!-- Artwork grid -->
 	  <div class="w3-row" id="page-1">
 		<div class="w3-third">
-		  <img src="deviantArt/3DS Theme.png" class="w3-round-large" style="width:100%"  onclick="onClick(this)" alt="A trainer filled with determination">
-		  <img src="deviantArt/Birb.jpg" style="width:100%" onclick="onClick(this)" alt="Raw sketch">
-		  <img src="deviantArt/Boundless.jpg" style="width:100%" onclick="onClick(this)" alt="Digital sketch">
+		  <img src="3DS Theme.png" class="w3-round-large" style="width:100%"  onclick="onClick(this)" alt="A trainer filled with determination">
+		  <img src="Birb.jpg" style="width:100%" onclick="onClick(this)" alt="Raw sketch">
+		  <img src="Boundless.jpg" style="width:100%" onclick="onClick(this)" alt="Digital sketch">
 		</div>
 
 		<div class="w3-third">
-		  <img src="deviantArt/Brynhild.jpeg" style="width:100%" onclick="onClick(this)" alt="Mythology">
-		  <img src="deviantArt/Leviathan.jpg" style="width:100%" onclick="onClick(this)" alt="Huge ass Gyarados">
-		  <img src="deviantArt/Protega.jpg" style="width:100%" onclick="onClick(this)" alt="Huge ass Steelix!">
+		  <img src="Brynhild.jpeg" style="width:100%" onclick="onClick(this)" alt="Mythology">
+		  <img src="Leviathan.jpg" style="width:100%" onclick="onClick(this)" alt="Huge ass Gyarados">
+		  <img src="Protega.jpg" style="width:100%" onclick="onClick(this)" alt="Huge ass Steelix!">
 		</div>
 		
 		<div class="w3-third">
-		  <img src="deviantArt/Stigma.jpeg" style="width:100%" onclick="onClick(this)" alt="Deep shit">
-		  <img src="deviantArt/Rusty.jpg" style="width:100%" onclick="onClick(this)" alt="More Steelix...">
-		  <img src="deviantArt/Monster.jpg" style="width:100%" onclick="onClick(this)" alt="BOH.">
+		  <img src="Stigma.jpeg" style="width:100%" onclick="onClick(this)" alt="Deep shit">
+		  <img src="Rusty.jpg" style="width:100%" onclick="onClick(this)" alt="More Steelix...">
+		  <img src="Monster.jpg" style="width:100%" onclick="onClick(this)" alt="BOH.">
 		</div>
 	</div>
 	  
 	  <div class="w3-row" id="page-2">
 		<div class="w3-third">
-			<img src="deviantArt/Monster.jpg" style="width:100%" onclick="onClick(this)" alt="Your friendly neighbor">
-			<img src="deviantArt/Trainer.jpg" style="width:100%" onclick="onClick(this)" alt="Trainer concept">
-			<img src="deviantArt/Cloud doodles.jpg" style="width:100%" onclick="onClick(this)" alt="Inspired by Clouds Inc.">
+			<img src="Monster.jpg" style="width:100%" onclick="onClick(this)" alt="Your friendly neighbor">
+			<img src="Trainer.jpg" style="width:100%" onclick="onClick(this)" alt="Trainer concept">
+			<img src="Cloud doodles.jpg" style="width:100%" onclick="onClick(this)" alt="Inspired by Clouds Inc.">
 		</div>
 		
 		<div class="w3-third">
-		  <img src="../../pictures/ladyjustice.jpg" style="width:100%" onclick="onClick(this)" alt="Lady Justice">
-		  <img src="../../pictures/walking down the hall.jpg" style="width:100%" onclick="onClick(this)" alt="Walking towards freedom">
+		  <img src="ladyjustice.jpg" style="width:100%" onclick="onClick(this)" alt="Lady Justice">
+		  <img src="walking down the hall.jpg" style="width:100%" onclick="onClick(this)" alt="Walking towards freedom">
 		</div>
 		
 	  </div>
@@ -84,20 +84,20 @@
 	  <!-- Photography grid -->
 	  <div class="w3-row" style="margin-bottom:10px" id="photo">
 		<div class="w3-third">
-			<img src="photos/dawn.jpg" style="width:100%"  onclick="onClick(this)" alt="Dawn">
-			<img src="photos/goose.jpg" style="width:100%" onclick="onClick(this)" alt="Goose">
-			<img src="photos/moth.jpg" style="width:100%" onclick="onClick(this)" alt="Strange moth">
+			<img src="dawn.jpg" style="width:100%"  onclick="onClick(this)" alt="Dawn">
+			<img src="goose.jpg" style="width:100%" onclick="onClick(this)" alt="Goose">
+			<img src="moth.jpg" style="width:100%" onclick="onClick(this)" alt="Strange moth">
 		</div>
 	 
 		<div class="w3-third">
-			<img src="photos/park.jpg" style="width:100%" onclick="onClick(this)" alt="Intersection at night">
-			<img src="photos/yuna.jpg" style="width:100%" onclick="onClick(this)" alt="Heterochromia iridium">
-			<img src="photos/winter.jpg" style="width:100%" onclick="onClick(this)" alt="End of winter">
+			<img src="park.jpg" style="width:100%" onclick="onClick(this)" alt="Intersection at night">
+			<img src="yuna.jpg" style="width:100%" onclick="onClick(this)" alt="Heterochromia iridium">
+			<img src="winter.jpg" style="width:100%" onclick="onClick(this)" alt="End of winter">
 		</div>
 		
 		<div class="w3-third">
-			<img src="photos/drunk.jpg" style="width:100%" onclick="onClick(this)" alt="help">
-			<img src="photos/flooding.jpg" style="width:100%" onclick="onClick(this)" alt="Danger Zone!">
+			<img src="drunk.jpg" style="width:100%" onclick="onClick(this)" alt="help">
+			<img src="flooding.jpg" style="width:100%" onclick="onClick(this)" alt="Danger Zone!">
 		</div>
 	 </div>
 	
@@ -113,13 +113,13 @@
 	  <!-- About section -->
 	  <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
 		<h4><b>About Me</b></h4>
-		<img src="deviantArt/me.jpg" alt="Me" class="w3-round" width="100" height="100">
+		<img src="me.jpg" alt="Me" class="w3-round" width="100" height="100">
 		<div class="w3-content w3-justify" style="max-width:600px">
 		  <h4>Jaden Lehmann</h4>
 		  <p>I currently study in the bachelor program "Business Computing". 
 			When I don't study for university, I like to draw. I also like to design web pages. 
 			That's why I've combined these two hobbies of mine when I had 
-			some time to kill. Feel free to look at my artwork, however, don't use it without my permission.
+			nothing better to do. Feel free to look at my artwork, however, don't use it without my permission.
 		  </p>
 		  <p>mail: example@example.com</p>
 		  
@@ -179,8 +179,6 @@
 			  <li class="w3-padding-16 w3-hover-black">
 				<img src="/w3images/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
 				<span class="w3-large">Jaden Lehmann</span><br>
-				<span>Dreiburgenstr. 71</span><br>
-				<span>94538 Fürstenstein</span>
 			  </li>
 			  <li class="w3-padding-16 w3-hover-black">
 				<img src="/w3images/gondol.jpg" class="w3-left w3-margin-right" style="width:50px">
