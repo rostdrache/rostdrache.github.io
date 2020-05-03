@@ -1,0 +1,36 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en.download/help/error_hotspot.xml
+hs_err_pid*
+
+# IntelliJ
+*.idea
+*.iml
+
+# Gradle
+.gradle
+/build/
+!gradle-wrapper.jar
+
+.DS_Store
+	mypatch.patch
+	src/.DS_Store
+	src/main/.DS_Store
+	src/main/java/.DS_Store
+	src/main/java/de/.DS_Store
+	src/main/java/de/uni_passau/.DS_Store
+	src/main/java/de/uni_passau/fim/.DS_Store
+	src/main/java/de/uni_passau/fim/infosun/.DS_Store
+	src/main/java/de/uni_passau/fim/infosun/se2/.DS_Store
